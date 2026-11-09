@@ -1,0 +1,5 @@
+{
+  "packages": [
+    "nix:github:NixOS/nixpkgs/b6018f87da91d19d0ab4cf979885689b469cdd41#go_1_25"
+  ]
+}
